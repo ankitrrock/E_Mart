@@ -2,4 +2,6 @@
 E_commerce website,
 template does not design by me,
 only backend deployment by me,
-python d-jango 
+python django, 
+currently in development,
+day by day updated
